@@ -1,0 +1,34 @@
+site_name: TalkMate Documentation
+site_description: TalkMate project documentation
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - search.highlight
+    - search.share
+  language: ja
+
+nav:
+  - Home: index.md
+  - Getting Started:
+    - Installation: getting-started/installation.md
+    - Quick Start: getting-started/quick-start.md
+  - Guides:
+    - Basic Usage: guides/basic-usage.md
+    - Advanced Features: guides/advanced-features.md
+  - API Reference: api/reference.md
+
+plugins:
+  - search
+
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - admonition
+  - footnotes
+  - meta
+  - toc:
+      permalink: true 
