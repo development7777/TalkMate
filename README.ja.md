@@ -4,7 +4,9 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/development7777/TalkMate/pulls)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](./COPYING)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/yourusername/TalkMate/graphs/commit-activity)
+[![Deploy Documentation](https://github.com/development7777/TalkMate/actions/workflows/deploy-docs.yml/badge.svg)](https://github.com/development7777/TalkMate/actions/workflows/deploy-docs.yml)
 [![GitHub stars](https://img.shields.io/github/stars/development7777/TalkMate?style=social)](https://github.com/yourusername/TalkMate/stargazers)
+
 
 > [!WARNING]
 > このプロジェクトは開発中です。実際の使用には適さない場合があります。
