@@ -1,10 +1,10 @@
 # TalkMate
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/development7777/OpenRECL)](https://github.com/development7777/OpenRECL/commit/)
-[![GitHub License](https://img.shields.io/github/license/development7777/OpenRECL)](LICENCE)
-[![GitHub Release Date](https://img.shields.io/github/release-date/development7777/OpenRECL)](https://github.com/development7777/OpenRECL/releases)
-[![GitHub Repo stars](https://img.shields.io/github/stars/development7777/OpenRECL?style=flat)](https://github.com/development7777/OpenRECL/stargazers)
-[![Github Repo forks](https://img.shields.io/github/forks/development7777/OpenRECL?style=flat)](https://github.com/development7777/OpenRECL/forks)
+[![GitHub last commit](https://img.shields.io/github/last-commit/development7777/TalkMate)](https://github.com/development7777/TalkMate/commit/)
+[![GitHub License](https://img.shields.io/github/license/development7777/TalkMate)](LICENCE)
+[![GitHub Release Date](https://img.shields.io/github/release-date/development7777/TalkMate)](https://github.com/development7777/TalkMate/releases)
+[![GitHub Repo stars](https://img.shields.io/github/stars/development7777/TalkMate?style=flat)](https://github.com/development7777/TalkMate/stargazers)
+[![Github Repo forks](https://img.shields.io/github/forks/development7777/TalkMate?style=flat)](https://github.com/development7777/TalkMate/forks)
 
 > [!WARNING]
 > TalkMateはまだ開発中のプロジェクトです。使用する際は自己責任でお願いします。また、下記の機能や使い方が使用できない場合があります。
